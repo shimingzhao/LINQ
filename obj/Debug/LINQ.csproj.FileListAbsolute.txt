@@ -1,0 +1,6 @@
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\bin\Debug\LINQ.exe.config
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\bin\Debug\LINQ.exe
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\bin\Debug\LINQ.pdb
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\obj\Debug\LINQ.exe
+E:\Vanier College\Lab\Session 5\C#\LINQ\LINQ\obj\Debug\LINQ.pdb
